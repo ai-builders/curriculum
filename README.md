@@ -1,7 +1,7 @@
 # curriculum
 8-week curriculum for AI Builders
 
-![]()
+<img src="https://github.com/ai-builders/curriculum/raw/main/images/curriculum.png" width="500">
 
 ## Week 1 - [บทที่ 1 - Machine Learning คืออะไร](https://github.com/ai-builders/curriculum/blob/main/notebooks/01_ml_what.ipynb)
 
@@ -22,43 +22,43 @@
 
 ## Track - Images
 
-### Week 4
+### Week 4 - บทที่ 4i
 
 Loren ipsum
 
-### Week 5
+### Week 5 - บทที่ 5i
 
 Loren ipsum
 
-### Week 6
+### Week 6 - บทที่ 6i
 
 Loren ipsum
 
 ## Track - Texts
 
-### Week 4
+### Week 4 - บทที่ 4n
 
 Loren ipsum
 
-### Week 5
+### Week 5 - บทที่ 5n
 
 Loren ipsum
 
-### Week 6
+### Week 6 - บทที่ 6n
 
 Loren ipsum
 
 ## Track - Tabular Data
 
-### Week 4
+### Week 4 - บทที่ 4t
 
 Loren ipsum
 
-### Week 5
+### Week 5 - บทที่ 5t
 
 Loren ipsum
 
-### Week 6
+### Week 6 - บทที่ 6t
 
 Loren ipsum
 
