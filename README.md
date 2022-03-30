@@ -22,31 +22,32 @@
 
 ## Track - Images
 
-### Week 4 - บทที่ 4i
+### Week 4 - 4i
 
 Loren ipsum
 
-### Week 5 - บทที่ 5i
+### Week 5 - 5i
 
 Loren ipsum
 
-### Week 6 - บทที่ 6i
+### Week 6 - 6i
 
 Loren ipsum
 
 ## Track - Texts
 
-### Week 4 - บทที่ 4n
+### Week 4 - [บทที่ 4n - NLP คืออะไร? บทเรียนจากอดีตสู่ปัจจุบัน](https://docs.google.com/presentation/d/1jXdjU0LqgIzpbfqy8pqI8-zJUc16_0EY8iiAgxcHMyc/edit?usp=sharing)
 
-Loren ipsum
+ในบทนี้เราจะเรียนเกี่ยวกับ NLP ตั้งแต่พื้นฐาน ไปจนถึง NLP ในยุคปัจจุบันว่ามีการพัฒนาไปอย่างไรบ้าง พร้อมทั้งยกตัวอย่างการทำ text classification (การจำแนกข้อความ) ด้วยวิธีตั้งแต่อดีตยันปัจจุบัน
 
-### Week 5 - บทที่ 5n
+### Week 5 - [บทที่ 5n - การเทรนโมเดลบน Hugging Face พาร์ท 1](https://docs.google.com/presentation/d/1KFzS5iL4pi-XV_QxtP9G0sxSSy0PqXvuKsDLSPDhZtA/edit?usp=sharing)
 
-Loren ipsum
+ในปัจจุบันการทำงานด้าน NLP มักจะนิยมใช้งาน Deep Learning ในการแก้ปัญหาโจทย์ที่มีความซับซ้อนสูง โดย Library ที่เป็นที่นิยมในปัจจุบันคือ "Hugging Face" โดยในบทเรียนนี้เราจะมาเรียนการใช้งาน Hugging Face เพื่อเทรนโมเดลในงานด้าน NLP !
 
-### Week 6 - บทที่ 6n
+### Week 6 - [บทที่ 6n - การเทรนโมเดลบน Hugging Face พาร์ท 2](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing)
 
-Loren ipsum
+หลังจากที่เราได้เรียนรู้พื้นฐานของการใช้งาน Hugging Face แล้ว เราจะมาเทรนโมเดลเพื่องานที่ซับซ้อนมากขึ้น เช่น Machine Translation (เครื่องแปลภาษา), Question Answering (ระบบถาม-ตอบ) และ Sentence Representation (การแปลงข้อความให้เป็นข้อมูล)
+
 
 ## Track - Tabular Data
 
