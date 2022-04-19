@@ -9,9 +9,17 @@
 
 บทเรียนนี้ปรับแต่งและเพิ่มเติมจาก [fastai Practical Deep Learning for Coders v4 part1 - Lesson 1](https://course.fast.ai/videos/?lesson=1) เพื่อให้เหมาะกับโครงการ AI Builders
 
+Video: [YouTube]()
+
+Notebooks: [All Parts](notebooks/01_ml_what.ipynb)
+
 ## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](https://github.com/ai-builders/curriculum/blob/main/notebooks/02_fantastic_datasets.ipynb)
 
 ในปัจจุบันชุดข้อมูลที่มีพร้อมทั้งปริมาณและคุณภาพเป็นส่วนสำคัญในการสร้าง ML models ในบทเรียนนี้เราจะเรียนรู้วิธีการหาข้อมูลมาเทรนโมเดลของเราทั้งจากชุดข้อมูล open data, web scraping, หรือสร้างขึ้นมาเองจากโมเดลและโค้ด open source ทั้งนี้การหาข้อมูลมาเทรนโมเดลจากแหล่งข้อมูลสาธารณะที่กล่าวมานั้นเราต้องให้ความสำคัญเรื่องลิขสิทธิ์และจริยธรรม (แม้แต่โมเดลเองก็สร้างข้อมูลที่ผิดลิขสิทธิ์-จริยธรรมได้; เรียนเพิ่มเติมในบทที่ 7)
+
+Video: [YouTube]()
+
+Notebooks: [All Parts](notebooks/02_fantastic_datasets.ipynb)
 
 ## Week 3 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](https://github.com/ai-builders/curriculum/blob/main/notebooks/03_sgd_from_scratch.ipynb)
 
@@ -19,6 +27,9 @@
 
 บทเรียนแปล-สรุปมาจาก [04_mnist_basics.ipynb](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb) ของ [fastai](https://course.fast.ai/) ผู้ที่สนใจสามารถไปติดตามบทเรียนต้นทางได้ที่ [course.fast.ai](https://course.fast.ai/)
 
+Video: [YouTube]()
+
+Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
 
 ## Track - Images
 
@@ -40,6 +51,8 @@ Loren ipsum
 
 ในบทนี้เราจะเรียนเกี่ยวกับ NLP ตั้งแต่พื้นฐาน ไปจนถึง NLP ในยุคปัจจุบันว่ามีการพัฒนาไปอย่างไรบ้าง พร้อมทั้งยกตัวอย่างการทำ text classification (การจำแนกข้อความ) ด้วยวิธีตั้งแต่อดีตยันปัจจุบัน
 
+Video: [YouTube]()
+
 Slides: [Google Slides](https://docs.google.com/presentation/d/1jXdjU0LqgIzpbfqy8pqI8-zJUc16_0EY8iiAgxcHMyc/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/04n_nlp_intro.pdf)
 
 Notebooks: [All Parts](notebooks/04n_NLP_Thai_Text_Classification.ipynb)
@@ -48,6 +61,8 @@ Notebooks: [All Parts](notebooks/04n_NLP_Thai_Text_Classification.ipynb)
 
 ในปัจจุบันการทำงานด้าน NLP มักจะนิยมใช้งาน Deep Learning ในการแก้ปัญหาโจทย์ที่มีความซับซ้อนสูง โดย Library ที่เป็นที่นิยมในปัจจุบันคือ [Hugging Face](https://huggingface.co/) ([transformers](https://github.com/huggingface/transformers/), [datasets](https://github.com/huggingface/datasets), [tokenizers](https://github.com/huggingface/tokenizers)) โดยในบทเรียนนี้เราจะมาเรียนการใช้งาน Hugging Face เพื่อเทรนโมเดลในงานด้าน NLP!
 
+Video: [YouTube]()
+
 Slides: [Google Slides](https://docs.google.com/presentation/d/1KFzS5iL4pi-XV_QxtP9G0sxSSy0PqXvuKsDLSPDhZtA/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/05n_nlp_finetuning_part1.pdf)
 
 Notebooks: [Part 1](notebooks/05n_NLP_on_HF_01.ipynb), [Part 2](notebooks/05n_NLP_on_HF_02.ipynb), [Part 3](notebooks/05n_NLP_on_HF_03.ipynb)
@@ -55,6 +70,8 @@ Notebooks: [Part 1](notebooks/05n_NLP_on_HF_01.ipynb), [Part 2](notebooks/05n_NL
 ### Week 6 - [บทที่ 6n - การเทรนโมเดลบน Hugging Face พาร์ท 2](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing)
 
 หลังจากที่เราได้เรียนรู้พื้นฐานของการใช้งาน [Hugging Face](https://huggingface.co/) แล้ว เราจะมาเทรนโมเดลเพื่องานที่ซับซ้อนมากขึ้น เช่น Machine Translation (เครื่องแปลภาษา), Question Answering (ระบบถาม-ตอบ) และ Sentence Representation (การแปลงข้อความให้เป็นข้อมูล)
+
+Video: [YouTube]()
 
 Slides: [Google Slides](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/06n_nlp_finetuning_part2.pdf)
 
