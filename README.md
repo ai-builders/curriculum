@@ -9,7 +9,7 @@
 
 บทเรียนนี้ปรับแต่งและเพิ่มเติมจาก [fastai Practical Deep Learning for Coders v4 part1 - Lesson 1](https://course.fast.ai/videos/?lesson=1) เพื่อให้เหมาะกับโครงการ AI Builders
 
-Video: [YouTube]()
+Video: [YouTube](https://youtu.be/4-PHm7-XIjE)
 
 Notebooks: [All Parts](notebooks/01_ml_what.ipynb)
 
