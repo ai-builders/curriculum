@@ -31,19 +31,27 @@ Video: [YouTube]()
 
 Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
 
-## Track - Images
+## Track - Vision
 
-### Week 4 - 4i
+Slides: [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing)
 
-Loren ipsum
+### Week 4 - 4v
 
-### Week 5 - 5i
+ในบทเรียนนี้เราจะมาลองสร้างโมเดล Image classification เพื่อแยกพันธุ์ของน้องหมาโดยใช้เทคนิค Transfer learning ด้วยไลบรารี่ต่างๆ ได้แก่ FastAI, Pytorch และ Pytorch Lightning นอกจากนั้นเราจะมาดูองค์ประกอบของการใช้ Pytorch และการใช้ Image augmentation ด้วยไลบรารี่ `torchvision`
 
-Loren ipsum
+Video: [TBA]
 
-### Week 6 - 6i
+### Week 5 - 5v
 
-Loren ipsum
+ในบทเรียนนี้เราจะลองสร้างโมเดล Object detection ด้วยเทคนิค Transfer learning โดยใช้ไลบรารี่ FastAI และ Pytorch กัน เราจะมาดูหน้าตาของการสร้างชุดข้อมูล Object detection และไปดูเครื่องมือต่างๆที่ใช้สร้างชุดข้อมูล Object detection
+
+Video: [TBA]
+
+### Week 6 - 6v
+
+TBA ในสัปดาห์นี้เราจะมาดูการใช้ Deep learning กับ tasks ต่างๆเช่น sequence recognition และ GAN กัน
+
+Video: [TBA]
 
 ## Track - Texts
 
