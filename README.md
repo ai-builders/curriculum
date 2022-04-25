@@ -1,7 +1,7 @@
 # curriculum
 8-week curriculum for AI Builders
 
-<img src="https://github.com/ai-builders/curriculum/raw/main/images/curriculum.png" width="500">
+<img src="https://github.com/ai-builders/curriculum/raw/main/images/curriculum.png" width="1000">
 
 ## Week 1 - [บทที่ 1 - Machine Learning คืออะไร](https://github.com/ai-builders/curriculum/blob/main/notebooks/01_ml_what.ipynb)
 
