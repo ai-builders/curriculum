@@ -61,7 +61,7 @@ Video: [TBA]
 
 Video: [YouTube]()
 
-Slides: [Google Slides](https://docs.google.com/presentation/d/1jXdjU0LqgIzpbfqy8pqI8-zJUc16_0EY8iiAgxcHMyc/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/04n_nlp_intro.pdf)
+Slides: [Google Slides](https://docs.google.com/presentation/d/1jXdjU0LqgIzpbfqy8pqI8-zJUc16_0EY8iiAgxcHMyc/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/04n_nlp_intro.pdf)
 
 Notebooks: [All Parts](notebooks/04n_NLP_Thai_Text_Classification.ipynb)
 
@@ -71,7 +71,7 @@ Notebooks: [All Parts](notebooks/04n_NLP_Thai_Text_Classification.ipynb)
 
 Video: [YouTube]()
 
-Slides: [Google Slides](https://docs.google.com/presentation/d/1KFzS5iL4pi-XV_QxtP9G0sxSSy0PqXvuKsDLSPDhZtA/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/05n_nlp_finetuning_part1.pdf)
+Slides: [Google Slides](https://docs.google.com/presentation/d/1KFzS5iL4pi-XV_QxtP9G0sxSSy0PqXvuKsDLSPDhZtA/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/05n_nlp_finetuning_part1.pdf)
 
 Notebooks: [Part 1](notebooks/05n_NLP_on_HF_01.ipynb), [Part 2](notebooks/05n_NLP_on_HF_02.ipynb), [Part 3](notebooks/05n_NLP_on_HF_03.ipynb)
 
@@ -81,7 +81,7 @@ Notebooks: [Part 1](notebooks/05n_NLP_on_HF_01.ipynb), [Part 2](notebooks/05n_NL
 
 Video: [YouTube]()
 
-Slides: [Google Slides](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/blob/main/notebooks/06n_nlp_finetuning_part2.pdf)
+Slides: [Google Slides](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/06n_nlp_finetuning_part2.pdf)
 
 Notebooks: [Part 1](notebooks/06n_Machine_Translation.ipynb), [Part 2](notebooks/06n_Question_Answering.ipynb), [Part 3](notebooks/06n_Sentence_Representation.ipynb)
 
@@ -109,7 +109,7 @@ Loren ipsum
 
 Video: [YouTube]()
 
-Slides: [pdf](notebooks/07_ai_ethics.pdf)
+Slides: [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf)
 
 ## Week 8 - [บทที่ 8 - Prototype Deployment]()
 
