@@ -69,7 +69,7 @@ Notebooks: [TBA]
 
 ในบทนี้เราจะเรียนเกี่ยวกับ NLP ตั้งแต่พื้นฐาน ไปจนถึง NLP ในยุคปัจจุบันว่ามีการพัฒนาไปอย่างไรบ้าง พร้อมทั้งยกตัวอย่างการทำ text classification (การจำแนกข้อความ) ด้วยวิธีตั้งแต่อดีตยันปัจจุบัน
 
-Video: [YouTube](https://youtu.be/e2w7S6qbc3I)
+Video: [YouTube](https://youtu.be/f41i-9uJZNU)
 
 Slides: [Google Slides](https://docs.google.com/presentation/d/1jXdjU0LqgIzpbfqy8pqI8-zJUc16_0EY8iiAgxcHMyc/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/04n_nlp_intro.pdf)
 
