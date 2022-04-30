@@ -27,7 +27,7 @@ Notebooks: [All Parts](notebooks/02_fantastic_datasets.ipynb)
 
 บทเรียนแปล-สรุปมาจาก [04_mnist_basics.ipynb](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb) ของ [fastai](https://course.fast.ai/) ผู้ที่สนใจสามารถไปติดตามบทเรียนต้นทางได้ที่ [course.fast.ai](https://course.fast.ai/)
 
-Video: [YouTube]()
+Video: [YouTube](https://www.youtube.com/watch?v=1tukMeP_UdE)
 
 Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
 
