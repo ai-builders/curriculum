@@ -31,9 +31,9 @@ Video: [YouTube]()
 
 Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
 
-## Track - Vision
+## Track - [Vision](https://www.youtube.com/watch?v=qKP84HVuXyQ&list=PLMkXpBmmcKL-7-Xdq2MwDR1oLtTqaSSxR)
 
-### Week 4 - 4v
+### Week 4 - 4v [Image Classification](https://www.youtube.com/watch?v=qKP84HVuXyQ)
 
 ในบทเรียนนี้เราจะมาลองสร้างโมเดล Image classification เพื่อแยกพันธุ์ของน้องหมาโดยใช้เทคนิค Transfer learning ด้วยไลบรารี่ต่างๆ ได้แก่ FastAI, Pytorch และ Pytorch Lightning นอกจากนั้นเราจะมาดูองค์ประกอบของการใช้ Pytorch และการใช้ Image augmentation ด้วยไลบรารี่ `torchvision`
 
@@ -43,7 +43,7 @@ Slides (หน้า 1-33): [Google slide](https://docs.google.com/presentation/
 
 Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification_pytorch.ipynb) 
 
-### Week 5 - 5v
+### Week 5 - 5v [Object Detection]()
 
 ในบทเรียนนี้เราจะลองสร้างโมเดล Object detection ด้วยเทคนิค Transfer learning โดยใช้ไลบรารี่ FastAI และ Pytorch กัน เราจะมาดูหน้าตาของการสร้างชุดข้อมูล Object detection และไปดูเครื่องมือต่างๆที่ใช้สร้างชุดข้อมูล Object detection
 
@@ -53,7 +53,7 @@ Slides (หน้า 34-44): [Google slide](https://docs.google.com/presentation
 
 Notebooks: [TBA]
 
-### Week 6 - 6v
+### Week 6 - 6v [GANs and Advanced Topics]()
 
 TBA ในสัปดาห์นี้เราจะมาดูการใช้ Deep learning กับ tasks ต่างๆเช่น sequence recognition และ GAN กัน
 
