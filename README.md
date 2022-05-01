@@ -79,7 +79,7 @@ Notebooks: [All Parts](notebooks/04n_NLP_Thai_Text_Classification.ipynb)
 
 ในปัจจุบันการทำงานด้าน NLP มักจะนิยมใช้งาน Deep Learning ในการแก้ปัญหาโจทย์ที่มีความซับซ้อนสูง โดย Library ที่เป็นที่นิยมในปัจจุบันคือ [Hugging Face](https://huggingface.co/) ([transformers](https://github.com/huggingface/transformers/), [datasets](https://github.com/huggingface/datasets), [tokenizers](https://github.com/huggingface/tokenizers)) โดยในบทเรียนนี้เราจะมาเรียนการใช้งาน Hugging Face เพื่อเทรนโมเดลในงานด้าน NLP!
 
-Video: [YouTube]()
+Video: [YouTube](https://youtu.be/Pd9TFBhmx8I)
 
 Slides: [Google Slides](https://docs.google.com/presentation/d/1KFzS5iL4pi-XV_QxtP9G0sxSSy0PqXvuKsDLSPDhZtA/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/05n_nlp_finetuning_part1.pdf)
 
