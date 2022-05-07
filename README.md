@@ -109,7 +109,7 @@ Notebooks: [Part 1](notebooks/05n_NLP_on_HF_01.ipynb), [Part 2](notebooks/05n_NL
 
 หลังจากที่เราได้เรียนรู้พื้นฐานของการใช้งาน [Hugging Face](https://huggingface.co/) แล้ว เราจะมาเทรนโมเดลเพื่องานที่ซับซ้อนมากขึ้น เช่น Machine Translation (เครื่องแปลภาษา), Question Answering (ระบบถาม-ตอบ) และ Sentence Representation (การแปลงข้อความให้เป็นข้อมูล)
 
-Video: [YouTube]()
+Video: [YouTube](https://youtu.be/qB0Mq1uLFZA)
 
 Slides: [Google Slides](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVBmf1mN9ZKaUoxhNByD0rTAeEqp00/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_texts/06n_nlp_finetuning_part2.pdf)
 
