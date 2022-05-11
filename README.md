@@ -16,9 +16,9 @@
   - [บทที่ 5n - การเทรนโมเดลบน Hugging Face พาร์ท 1](#chapter5n)
   - [บทที่ 6n - การเทรนโมเดลบน Hugging Face พาร์ท 2](#chapter6n)
 - [Track - Tabular Data](#track-tabular)
-  - [บทที่ 4t - TBA](#chapter4t)
-  - [บทที่ 5t - TBA](#chapter5t)
-  - [บทที่ 6t - TBA](#chapter6t)
+  - [บทที่ 4t - Correlation and Regression](#chapter4t)
+  - [บทที่ 5t - Classification](#chapter5t)
+  - [บทที่ 6t - Similarity, Recommendation Clustering](#chapter6t)
 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](#chapter7)
 - [บทที่ 8 - Prototype Deployment](#chapter8)
 
@@ -118,17 +118,29 @@ Notebooks: [Part 1](notebooks/06n_Machine_Translation.ipynb), [Part 2](notebooks
 
 ## [Track - Tabular Data]() <a name="track-tabular"></a>
 
-### Week 4 - [บทที่ 4t - TBA]() <a name="chapter4t"></a>
+### Week 4 - [บทที่ 4t - Correlation and Regression]() <a name="chapter4t"></a>
 
-Loren ipsum
+การสร้างสมการความสัมพันธ์ (correlation) เพื่อทำนายตัวแปรประเภทตัวเลข (numerical) เพื่อนำไปใช้ในการหาความสัมพันธ์หรือพยากรณ์ เช่น การหาความสัมพันธ์ระหว่างตัวแปรที่มีผลต่อยอดขาย หรือ ทำนายพยากรณ์ยอดขายในอนาคต
 
-### Week 5 - [บทที่ 5t - TBA]() <a name="chapter5t"></a>
+Video: [YouTube]()
 
-Loren ipsum
+Notebooks: [TBA]()
 
-### Week 6 - [บทที่ 6t - TBA]() <a name="chapter6t"></a>
+### Week 5 - [บทที่ 5t - Classification]() <a name="chapter5t"></a>
 
-Loren ipsum
+การสร้างสมการความสัมพันธ์ เพื่อทำนายตัวแปรประเภทกลุ่ม/ชนิด (categorical) เพื่อใช้ในการทำนายหรือเลือกทางเลือก เช่น ทำนายว่าลูกค้าคนไหนจะหยุดใช้บริการ ทำนายว่าลูกค้าคนไหน เมื่อส่งคูปองไปแล้วจะใช้ หรือ ทำนายว่าเครื่องจักรจะเสียหรือไม่
+
+Video: [YouTube]()
+
+Notebooks: [TBA]()
+
+### Week 6 - [บทที่ 6t - Similarity, Recommendation and Clustering]() <a name="chapter6t"></a>
+
+การวิเคราะห์ความคลายคลึงและการแบ่งกลุ่มข้อมูล เพื่อนำไปใช้ในการแนะนำสินค้าหรือเนื้อหาที่ลูกค้าสนใจ เช่น Shopee แนะนำสินค้าที่เราสนใจ หรือ spotify แนะนำเพลงที่ผู้ฟังน่าจะอยากฟังต่อไป รวมถึงการนำข้อมูลมาใช้ในการแบ่งกลุ่มลูกค้าที่มีความสนใจเหมือนกันสำหรับนำไปทำการตลาดเฉพาะกลุ่ม
+
+Video: [YouTube]()
+
+Notebooks: [TBA]()
 
 ## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf) <a name="chapter7"></a>
 
