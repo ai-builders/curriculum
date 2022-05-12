@@ -126,10 +126,10 @@ Slides: [Google Slides](https://docs.google.com/presentation/d/1lpnF9ZteWukd5RVB
 Notebooks: [Part 1](notebooks/06n_Machine_Translation.ipynb), [Part 2](notebooks/06n_Question_Answering.ipynb), [Part 3](notebooks/06n_Sentence_Representation.ipynb)
 
 <a name="track-tabular"></a>
-## [Track - Tabular Data]() 
+## [Track - Tabular Data](https://www.youtube.com/watch?v=M0Gv5P_n_gk&list=PLMkXpBmmcKL9ecmWbKKOsbXcOSilqpUJ_) 
 
 <a name="chapter4t"></a>
-### Week 4 - [บทที่ 4t - Introduction to Tabular Data, Correlation and Regression]() 
+### Week 4 - [บทที่ 4t - Introduction to Tabular Data, Correlation and Regression](https://www.youtube.com/watch?v=X0B0HoK-b1Q) 
 
 การสร้างสมการความสัมพันธ์ (correlation) เพื่อทำนายตัวแปรประเภทตัวเลข (numerical) เพื่อนำไปใช้ในการหาความสัมพันธ์หรือพยากรณ์ เช่น การหาความสัมพันธ์ระหว่างตัวแปรที่มีผลต่อยอดขาย หรือ ทำนายพยากรณ์ยอดขายในอนาคต
 
