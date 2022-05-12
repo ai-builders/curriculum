@@ -133,7 +133,7 @@ Notebooks: [Part 1](notebooks/06n_Machine_Translation.ipynb), [Part 2](notebooks
 
 การสร้างสมการความสัมพันธ์ (correlation) เพื่อทำนายตัวแปรประเภทตัวเลข (numerical) เพื่อนำไปใช้ในการหาความสัมพันธ์หรือพยากรณ์ เช่น การหาความสัมพันธ์ระหว่างตัวแปรที่มีผลต่อยอดขาย หรือ ทำนายพยากรณ์ยอดขายในอนาคต
 
-Video: [Part 1](https://www.youtube.com/watch?v=M0Gv5P_n_gk), [Part 2](https://www.youtube.com/watch?v=X0B0HoK-b1Q), [Part 3](https://www.youtube.com/watch?v=m0r4W0HlqVM)
+Video: [Part 1](https://www.youtube.com/watch?v=X0B0HoK-b1Q), [Part 2](https://www.youtube.com/watch?v=m0r4W0HlqVM), [Part 3](https://www.youtube.com/watch?v=M0Gv5P_n_gk)
 
 Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_01_intro_to_tabular_data.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_02_correlation_regression.ipynb), [Part 3](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_03_time_series.ipynb)
 
