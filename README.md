@@ -16,7 +16,7 @@
   - [บทที่ 5n - การเทรนโมเดลบน Hugging Face พาร์ท 1](#chapter5n)
   - [บทที่ 6n - การเทรนโมเดลบน Hugging Face พาร์ท 2](#chapter6n)
 - [Track - Tabular Data](#track-tabular)
-  - [บทที่ 4t - Correlation and Regression](#chapter4t)
+  - [บทที่ 4t - Introduction to Tabular Data, Correlation and Regression](#chapter4t)
   - [บทที่ 5t - Classification](#chapter5t)
   - [บทที่ 6t - Similarity, Recommendation Clustering](#chapter6t)
 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](#chapter7)
