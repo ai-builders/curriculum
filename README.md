@@ -72,11 +72,11 @@ Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebook
 
 ในบทเรียนนี้เราจะลองสร้างโมเดล Object detection ด้วยเทคนิค Transfer learning โดยใช้ไลบรารี่ FastAI และ Pytorch กัน เราจะมาดูหน้าตาของการสร้างชุดข้อมูล Object detection และไปดูเครื่องมือต่างๆที่ใช้สร้างชุดข้อมูล Object detection
 
-Video: [TBA]
+Video: [Part 1](https://www.youtube.com/watch?v=kCIdKpOZy9M), [Part 2](https://www.youtube.com/watch?v=O_nOvWinsOs), [Part 3](https://youtu.be/Jjr0WmcoyQs)
 
 Slides (หน้า 34-44): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
 
-Notebooks: [TBA]
+Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_object_detection.ipynb), [Semantic Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_semantic_segmentation.ipynb)
 
 <a name="chapter6v"></a>
 ### Week 6 - 6v [GANs and Advanced Topics]() 
