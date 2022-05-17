@@ -138,13 +138,13 @@ Video: [Part 1](https://www.youtube.com/watch?v=X0B0HoK-b1Q), [Part 2](https://w
 Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_01_intro_to_tabular_data.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_02_correlation_regression.ipynb), [Part 3](https://github.com/ai-builders/curriculum/blob/main/notebooks/04t_03_time_series.ipynb)
 
 <a name="chapter5t"></a>
-### Week 5 - [บทที่ 5t - Classification]() 
+### Week 5 - [บทที่ 5t - Classification](https://www.youtube.com/watch?v=Dz_faAOHQPE) 
 
 การสร้างสมการความสัมพันธ์ เพื่อทำนายตัวแปรประเภทกลุ่ม/ชนิด (categorical) เพื่อใช้ในการทำนายหรือเลือกทางเลือก เช่น ทำนายว่าลูกค้าคนไหนจะหยุดใช้บริการ ทำนายว่าลูกค้าคนไหน เมื่อส่งคูปองไปแล้วจะใช้ หรือ ทำนายว่าเครื่องจักรจะเสียหรือไม่
 
-Video: [YouTube]()
+Video: [Part 1](https://www.youtube.com/watch?v=Dz_faAOHQPE), [Part 2](https://www.youtube.com/watch?v=UFl9itjyzcU)
 
-Notebooks: [TBA]()
+Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/05t_01_classification.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/05t_02_classification_evaluation.ipynb)
 
 <a name="chapter6t"></a>
 ### Week 6 - [บทที่ 6t - Similarity, Recommendation and Clustering]() 
