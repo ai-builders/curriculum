@@ -163,7 +163,7 @@ Notebooks: [TBA]()
 
 บทเรียนนี้แปลเป็นภาษาไทยและเพิ่มเติมเนื้อหาจาก [Lesson 5](https://course.fast.ai/videos/?lesson=5) ของ [fastai Practical Deep Learning for Coders v4 part1](https://course.fast.ai/) โดย Rachel Thomas
 
-Video: [YouTube]()
+Video: [YouTube](https://www.youtube.com/watch?v=fJoKlpIl8E8)
 
 Slides: [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf)
 
