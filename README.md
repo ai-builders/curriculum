@@ -87,7 +87,7 @@ Video: [TBA]
 
 Slides (หน้า 45-48): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
 
-Notebooks: [TBA]
+Notebooks: [GAN fastai](notebooks/06v_GAN_fastai.ipynb), [DCGAN_PyTorch](notebooks/06v_DCGAN_pytorch.ipynb)
 
 <a name="track-texts"></a>
 ## [Track - Texts](https://www.youtube.com/watch?v=EojcWa7mgiM&list=PLMkXpBmmcKL_HxPVAz4-wT-kCiBR4iOSK) 
@@ -153,7 +153,7 @@ Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebook
 
 Video: [YouTube]()
 
-Notebooks: [TBA]()
+Notebooks: [Part 1](notebooks/06t_01_similarity_matching.ipynb), [Part 2](notebooks/06t_02_clustering.ipynb)
 
 <a name="chapter7"></a>
 ## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf) 
