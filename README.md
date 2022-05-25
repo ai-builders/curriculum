@@ -147,11 +147,11 @@ Video: [Part 1](https://www.youtube.com/watch?v=Dz_faAOHQPE), [Part 2](https://w
 Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/05t_01_classification.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/05t_02_classification_evaluation.ipynb)
 
 <a name="chapter6t"></a>
-### Week 6 - [บทที่ 6t - Similarity, Recommendation and Clustering]() 
+### Week 6 - [บทที่ 6t - Similarity, Recommendation and Clustering](https://youtu.be/Qnmynr6gVnw) 
 
 การวิเคราะห์ความคลายคลึงและการแบ่งกลุ่มข้อมูล เพื่อนำไปใช้ในการแนะนำสินค้าหรือเนื้อหาที่ลูกค้าสนใจ เช่น Shopee แนะนำสินค้าที่เราสนใจ หรือ spotify แนะนำเพลงที่ผู้ฟังน่าจะอยากฟังต่อไป รวมถึงการนำข้อมูลมาใช้ในการแบ่งกลุ่มลูกค้าที่มีความสนใจเหมือนกันสำหรับนำไปทำการตลาดเฉพาะกลุ่ม
 
-Video: [YouTube]()
+Video: [Part 1](https://youtu.be/Qnmynr6gVnw), [Part 2](https://www.youtube.com/watch?v=EQvPvSCpOyE)
 
 Notebooks: [Part 1](notebooks/06t_01_similarity_matching.ipynb), [Part 2](notebooks/06t_02_clustering.ipynb)
 
