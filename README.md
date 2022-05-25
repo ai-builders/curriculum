@@ -81,9 +81,9 @@ Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/mai
 <a name="chapter6v"></a>
 ### Week 6 - 6v [GANs and Advanced Topics]() 
 
-TBA ในสัปดาห์นี้เราจะมาดูการใช้ Deep learning กับ tasks ต่างๆเช่น sequence recognition และ GAN กัน
+ในบทเรียนนี้เราจะมาลองสร้างแบบจำลองประเภท Generative Adversarial Network หรือ GAN แบบเบื้องต้นเพื่อที่จะสร้างภาพเสมือนขึ้นมา (จากข้อมูลภาพหน้าของบุคคลที่มีชื่อเสียง) ด้วยไลบรารี่ต่างๆทั้งจาก PyTorch และ FastAI นอกจากนั้นเรายังจะได้ทำความรู้จักกับ DCGAN ซึ่งเป็น GAN แบบเฉพาะทางทางหนึ่งอีกด้วย
 
-Video: [TBA]
+Video: [Part 1](https://www.youtube.com/watch?v=Jo6mj-b7Y2M), [Part 2](https://youtu.be/gfAgHWCvhIE), [Part 3](https://youtu.be/Mj8Re4aHxSI)
 
 Slides (หน้า 45-48): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
 
