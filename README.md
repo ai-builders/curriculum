@@ -168,9 +168,13 @@ Video: [YouTube](https://www.youtube.com/watch?v=fJoKlpIl8E8)
 Slides: [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf)
 
 <a name="chapter8"></a>
-## Week 8 - [บทที่ 8 - Prototype Deployment]() 
+## Week 8 - [บทที่ 8 - Prototype Deployment](https://youtu.be/qa2Sxesdr7Y) 
 
 ในบทเรียนนี้จะแนะนำวิธีการ Deploy โปรเจค ML / AI โดยจะนำ source code ที่เขียนไว้ใน notebook มาสร้างเป็นโปรเจค Streamlit, เรียนรู้ widget ต่างๆของ Streamlit เพื่อใช้ทำ Visualization ไม่ว่าจะเป็นการนำผลลัพธ์จากการรันโมเดลมาพล็อตเป็นกราฟ ตาราง แสดงรูปภาพที่เกี่ยวข้อง และอื่นๆ รวมโค้ดทั้งหมดออกเป็นเป็นโปรเจค จากนั้น Deploy โปรเจคไปยัง Heroku, Streamlit Cloud หรือ Cloud Server อื่นๆ เช่น DigitalOcean / AWS / Google Cloud / Azure 
+
+Video: [YouTube](https://youtu.be/qa2Sxesdr7Y)
+
+Slides: [Google Slides](https://docs.google.com/presentation/d/1_0oWVo-DPM43QR86evChI9q6FrPVuVfP/), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_prototype_deployment/08_prototype_deployment.pdf)
 
 # กิตติกรรมประกาศ - Acknowledgements
 
