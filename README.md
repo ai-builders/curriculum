@@ -1,7 +1,7 @@
 # curriculum
 8-week curriculum for AI Builders
 
-<img src="https://raw.githubusercontent.com/ai-builders/curriculum/refs/heads/main/images/curriculum.png" width="1000">
+<img src="https://raw.githubusercontent.com/ai-builders/curriculum/refs/heads/main/images/curriculum_2026.png" width="1000">
 
 ## สารบัญ
 - [บทที่ 1 - Artificial Intelligence (AI) คืออะไร](#chapter1)
