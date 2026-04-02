@@ -38,16 +38,16 @@ Notebooks: [How to AI 2026](notebooks/00_how_to_ai_2026.ipynb)
 ในบทเรียนนี้เราจะเรียนรู้ว่า Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) และ Large Language Model (LLM) คืออะไร เหมือนกันหรือแตกต่างกันอย่างไร สามแนวทางการพัฒนาระบบปัญญาประดิษฐ์ที่กำลังเป็นที่นิยมในปัจจุบันคืออะไร-แนวทางไหนเหมาะกับการใช้งานแบบใด เราจะเรียนรู้ส่วนประกอบของระบบปัญญาประดิษฐ์ วิธีการ​ "โปรแกรม" LLM (แทนที่จะแค่ prompt), เทรน machine learning model ด้วยตัวอย่างจำแนกรูปภาพอาหารไทย 48 ชนิดจากชุดข้อมูล [FoodyDudy](https://github.com/GemmyTheGeek/FoodyDudy) หลังจากนั้นเราจะเรียนรู้วิธีการวัดผลเบื้องต้น (ก่อนไปเรียนละเอียดในบทที่ 3) และความท้าทายของการวัดผลในโลกที่ LLM ให้ผลลัพธ์ที่ไม่ตายตัว
 
 Video: [YouTube](https://www.youtube.com/watch?v=cUZdHERY5Rk)
-Notebooks: [EN](notebooks/01_ai_what_2026_th.ipynb), [TH](notebooks/01_ai_what_2026_th.ipynb)
+Notebooks: [EN](notebooks/01_ai_what_2026.ipynb), [TH](notebooks/01_ai_what_2026_th.ipynb)
 
 <a name="chapter2"></a>
-## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](https://youtu.be/1djko0F3auA)
+## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่]()
 
-ในปัจจุบันชุดข้อมูลที่มีพร้อมทั้งปริมาณและคุณภาพเป็นส่วนสำคัญในการสร้าง ML models ในบทเรียนนี้เราจะเรียนรู้วิธีการหาข้อมูลมาเทรนโมเดลของเราทั้งจากชุดข้อมูล open data, web scraping, หรือสร้างขึ้นมาเองจากโมเดลและโค้ด open source ทั้งนี้การหาข้อมูลมาเทรนโมเดลจากแหล่งข้อมูลสาธารณะที่กล่าวมานั้นเราต้องให้ความสำคัญเรื่องลิขสิทธิ์และจริยธรรม (แม้แต่โมเดลเองก็สร้างข้อมูลที่ผิดลิขสิทธิ์-จริยธรรมได้; เรียนเพิ่มเติมในบทที่ 7)
+ในปัจจุบันชุดข้อมูลที่มีพร้อมทั้งปริมาณและคุณภาพเป็นส่วนสำคัญในการสร้าง AI Systems ในบทเรียนนี้เราจะเรียนรู้วิธีการหาข้อมูลมาเทรนโมเดลของเราทั้งจากชุดข้อมูล open data, web scraping, หรือสร้างขึ้นมาเองจากโมเดลและโค้ด open source ทั้งนี้การหาข้อมูลมาเทรนโมเดลจากแหล่งข้อมูลสาธารณะที่กล่าวมานั้นเราต้องให้ความสำคัญเรื่องลิขสิทธิ์และจริยธรรม (แม้แต่โมเดลเองก็สร้างข้อมูลที่ผิดลิขสิทธิ์-จริยธรรมได้; เรียนเพิ่มเติมในบทที่ 7)
 
-Video: [YouTube](https://youtu.be/1djko0F3auA)
+Video: [YouTube]()
 
-Notebooks: [All Parts](notebooks/02_fantastic_datasets.ipynb)
+Notebooks: [EN](notebooks/02_fantastic_datasets_2026.ipynb), [TH](notebooks/02_fantastic_datasets_2026_th.ipynb)
 
 <a name="chapter3"></a>
 ## Week 3 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](https://www.youtube.com/watch?v=1tukMeP_UdE) 
