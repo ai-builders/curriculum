@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/ai-builders/curriculum/refs/heads/main/images/curriculum_2026.png" width="1000">
 
 ## สารบัญ
+- [บทที่ 0 - How to AI 2026 [Recommended Setup for AI Builders]](#chapter0)
 - [บทที่ 1 - Artificial Intelligence (AI) คืออะไร](#chapter1)
 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](#chapter2)
 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](#chapter3)
@@ -22,12 +23,21 @@
 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](#chapter7)
 - [บทที่ 8 - Prototype Deployment](#chapter8)
 
+<a name="chapter0"></a>
+## [บทที่ 0 - How to AI 2026 [Recommended Setup for AI Builders]](https://youtu.be/cquH30vEYGQ)
+
+ในบทเรียนนี้เราจะแนะนำเครื่องมือที่จำเป็นสำหรับการพัฒนา AI ในโครงการ AI Builders 2026 เพื่อให้ทุกคนสามารถทำโครงงานให้เสร็จภายใน 8 สัปดาห์ได้อย่างมีประสิทธิภาพ
+
+Video: [YouTube](https://youtu.be/cquH30vEYGQ)
+
+Notebooks: [How to AI 2026](notebooks/00_how_to_ai_2026.ipynb)
+
 <a name="chapter1"></a>
-## Week 1 - [บทที่ 1 - Artificial Intelligence คืออะไร]()
+## Week 1 - [บทที่ 1 - Artificial Intelligence คืออะไร](https://www.youtube.com/watch?v=cUZdHERY5Rk)
 
 ในบทเรียนนี้เราจะเรียนรู้ว่า Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) และ Large Language Model (LLM) คืออะไร เหมือนกันหรือแตกต่างกันอย่างไร สามแนวทางการพัฒนาระบบปัญญาประดิษฐ์ที่กำลังเป็นที่นิยมในปัจจุบันคืออะไร-แนวทางไหนเหมาะกับการใช้งานแบบใด เราจะเรียนรู้ส่วนประกอบของระบบปัญญาประดิษฐ์ วิธีการ​ "โปรแกรม" LLM (แทนที่จะแค่ prompt), เทรน machine learning model ด้วยตัวอย่างจำแนกรูปภาพอาหารไทย 48 ชนิดจากชุดข้อมูล [FoodyDudy](https://github.com/GemmyTheGeek/FoodyDudy) หลังจากนั้นเราจะเรียนรู้วิธีการวัดผลเบื้องต้น (ก่อนไปเรียนละเอียดในบทที่ 3) และความท้าทายของการวัดผลในโลกที่ LLM ให้ผลลัพธ์ที่ไม่ตายตัว
 
-Video: [YouTube]()
+Video: [YouTube](https://www.youtube.com/watch?v=cUZdHERY5Rk)
 Notebooks: [EN](notebooks/01_ai_what_2026_th.ipynb), [TH](notebooks/01_ai_what_2026_th.ipynb)
 
 <a name="chapter2"></a>
