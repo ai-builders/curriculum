@@ -41,11 +41,11 @@ Video: [YouTube](https://www.youtube.com/watch?v=cUZdHERY5Rk)
 Notebooks: [EN](notebooks/01_ai_what_2026.ipynb), [TH](notebooks/01_ai_what_2026_th.ipynb)
 
 <a name="chapter2"></a>
-## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่]()
+## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](https://youtu.be/AQZYox8kZiU)
 
 ในปัจจุบันชุดข้อมูลที่มีพร้อมทั้งปริมาณและคุณภาพเป็นส่วนสำคัญในการสร้าง AI Systems ในบทเรียนนี้เราจะเรียนรู้วิธีการหาข้อมูลมาเทรนโมเดลของเราทั้งจากชุดข้อมูล open data, web scraping, หรือสร้างขึ้นมาเองจากโมเดลและโค้ด open source ทั้งนี้การหาข้อมูลมาเทรนโมเดลจากแหล่งข้อมูลสาธารณะที่กล่าวมานั้นเราต้องให้ความสำคัญเรื่องลิขสิทธิ์และจริยธรรม (แม้แต่โมเดลเองก็สร้างข้อมูลที่ผิดลิขสิทธิ์-จริยธรรมได้; เรียนเพิ่มเติมในบทที่ 7)
 
-Video: [YouTube]()
+Video: [YouTube](https://youtu.be/AQZYox8kZiU)
 
 Notebooks: [EN](notebooks/02_fantastic_datasets_2026.ipynb), [TH](notebooks/02_fantastic_datasets_2026_th.ipynb)
 
