@@ -12,6 +12,11 @@ pytorch-lightning==2.6.1
 matplotlib==3.10.8
 datasets==4.8.4
 
+# Lesson 3a: Metrics, Baselines, and LLM System Evaluation
+scikit-learn==1.8.0
+numpy==2.4.3
+sentence-transformers==5.3.0
+
 # Lesson 2: Fantastic Datasets
 icrawler==0.6.10
 beautifulsoup4==4.14.3
