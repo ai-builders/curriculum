@@ -69,7 +69,7 @@ Notebooks [EN](notebooks/03a_metrics_and_baselines_2026.ipynb), [TH](notebooks/0
 
 Video: [YouTube](https://www.youtube.com/watch?v=1tukMeP_UdE)
 
-Notebooks: [TH](notebooks/03_sgd_from_scratch.ipynb)
+Notebooks: [TH](03b_sgd_from_scratch.ipynb)
 
 <a name="track-vision"></a>
 ## Track - [Vision](https://www.youtube.com/watch?v=qKP84HVuXyQ&list=PLMkXpBmmcKL-7-Xdq2MwDR1oLtTqaSSxR) 
