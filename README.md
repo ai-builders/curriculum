@@ -53,11 +53,11 @@ Notebooks: [EN](notebooks/02_fantastic_datasets_2026.ipynb), [TH](notebooks/02_f
 <a name="chapter3"></a>
 ## Week 3 
 
-### [บทที่ 3a - Metrics, Baselines, และการประเมินระบบ LLM]() 
+### [บทที่ 3a - Metrics, Baselines, และการประเมินระบบ LLM](https://youtu.be/4TxqR1h7QZ4) 
 
 ในบทเรียนนี้เราจะเจาะลึกเรื่องการวัดผลและการเปรียบเทียบกับ baseline ตั้งแต่การแบ่งข้อมูล train/valid/test split อย่างถูกต้อง, metric สำหรับ classification, regression metrics, information retrieval ไปจนถึงการประเมินระบบ LLM ยุคใหม่ด้วย semantic similarity, LLM-as-Judge และ rubric-based scoring พร้อมกรอบการตัดสินใจเลือก metric ที่เหมาะสมกับแต่ละ task
 
-Video: [YouTube]()
+Video: [YouTube](https://youtu.be/4TxqR1h7QZ4)
 
 Notebooks [EN](notebooks/03a_metrics_and_baselines_2026.ipynb), [TH](notebooks/03a_metrics_and_baselines_2026_th.ipynb)
 
