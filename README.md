@@ -7,7 +7,7 @@
 - [บทที่ 0 - How to AI 2026 [Recommended Setup for AI Builders]](#chapter0)
 - [บทที่ 1 - Artificial Intelligence (AI) คืออะไร](#chapter1)
 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](#chapter2)
-- [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](#chapter3)
+- [บทที่ 3a - Metrics, Baselines, และการประเมินระบบ LLM](#chapter3)
 - [Track - Vision](#track-vision)
   - [บทที่ 4v - Image Classification](#chapter4v)
   - [บทที่ 5v - Object Detection](#chapter5v)
