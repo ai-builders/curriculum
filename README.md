@@ -181,16 +181,16 @@ Video: [Part 1](https://youtu.be/Qnmynr6gVnw), [Part 2](https://www.youtube.com/
 Notebooks: [Part 1](notebooks/06t_01_similarity_matching.ipynb), [Part 2](notebooks/06t_02_clustering.ipynb)
 
 <a name="chapter7"></a>
-## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf) 
+## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://youtu.be/Dxs5cZRURi8) 
 
 เมื่อปัญญาประดิษฐ์เข้ามามีบทบาทในชีวิตประจำวัน รวมถึงใช้ในการทำงานสาขาต่างๆ อาทิ ช่วยตรวจโรค ช่วยตรวจจับผู้กระทำผิด หรือช่วยตัดสินค่าตอบแทน/บทลงโทษ ฯลฯ จะเห็นได้ว่าปัญญาประดิษฐ์เกี่ยวข้องกับประเด็นทางสังคมและส่งผลกระทบต่อคนเป็นจำนวนมาก บางครั้งปัญญาประดิษฐ์มีการตัดสินใจที่ผิดพลาด ส่งผลกระทบกับชีวิตของคน หลายครั้งปัญญาประดิษฐ์เป็นส่วนหนึ่งของการเผยแพร่อคติโดยที่ผู้พัฒนาคาดไม่ถึง หรือบางกรณีเป็นการจงใจนำปัญญาประดิษฐ์ไปใช้เพื่อการทำร้ายผู้อื่น 
-การพัฒนาปัญญาประดิษฐ์จึงต้องคำนึงถึงหลักจริยธรรมปัญญาประดิษฐ์หรือ AI Ethics ในการพัฒนาเทคโนโลยีอย่างมีความรับผิดชอบ ในสัปดาห์นี้ เราจะมาทำความเข้าใจว่าปัญญาประดิษฐ์ก็สามารถมีอคติในการรับและเผยแพร่ข้อมูลได้อย่างไร รวมถึงคำนึงถึงโอกาสที่เทคโนโลยีจะถูกนำไปใช้ในทางที่ผิดและเราจะหาทางป้องกันความเสี่ยงได้อย่างไร
+การพัฒนาปัญญาประดิษฐ์จึงต้องคำนึงถึงหลักจริยธรรมปัญญาประดิษฐ์หรือ AI Ethics ในการพัฒนาเทคโนโลยีอย่างมีความรับผิดชอบ ในสัปดาห์นี้ เราจะมาทำความเข้าใจว่าปัญญาประดิษฐ์โดยเฉพาะ Generative AI ที่เข้ามามีบทบาทในชีวิตของเราอย่างมากก็สามารถมีอคติในการรับและเผยแพร่ข้อมูลได้อย่างไร รวมถึงคำนึงถึงโอกาสที่เทคโนโลยีจะถูกนำไปใช้ในทางที่ผิดและเราจะหาทางป้องกันความเสี่ยงได้อย่างไร
 
 บทเรียนนี้แปลเป็นภาษาไทยและเพิ่มเติมเนื้อหาจาก [Lesson 5](https://course.fast.ai/videos/?lesson=5) ของ [fastai Practical Deep Learning for Coders v4 part1](https://course.fast.ai/) โดย Rachel Thomas
 
-Video: [YouTube](https://www.youtube.com/watch?v=fJoKlpIl8E8)
+Video: [YouTube](https://youtu.be/Dxs5cZRURi8)
 
-Slides: [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf)
+Slides: [pdf](notebooks/07_ai_ethics_2026.pdf)
 
 <a name="chapter8"></a>
 ## Week 8 - [บทที่ 8 - Prototype Deployment](https://youtu.be/qa2Sxesdr7Y) 
