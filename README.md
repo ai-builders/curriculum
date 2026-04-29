@@ -70,7 +70,9 @@ Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
 - ปัญหาที่พบบ่อย (Common failure cases) พร้อมแนวทางแก้ไขในบทเรียน
 โดยเราจะสร้าง agent ในรูปแบบพื้นฐานที่สุดเป็นตัวอย่างด้วย LLM `gemma-3-1b-it`
 
-[Video](https://youtu.be/9qWrr-1hOyY) | [Notebook](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
+Video: [YouTube](https://youtu.be/9qWrr-1hOyY)
+
+Notebook: [Agentic AI from Scratch](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
 
 ### Week 5 - 5a [RAG and Automating Prompting](TBA) 
 
