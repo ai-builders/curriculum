@@ -7,6 +7,10 @@
 - [บทที่ 1 - Machine Learning คืออะไร](#chapter1)
 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](#chapter2)
 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](#chapter3)
+- [Track - Agentic](#track-agentic)
+  - [บทที่ 4a - Agentic AI from Scratch](#chapter4a)
+  - [บทที่ 5a - RAG and Automating Prompting](#chapter5a)
+  - [บทที่ 6a - Programmtic Tool Calling and Other Topics](#chapter6a)
 - [Track - Vision](#track-vision)
   - [บทที่ 4v - Image Classification](#chapter4v)
   - [บทที่ 5v - Object Detection](#chapter5v)
@@ -52,6 +56,29 @@ Notebooks: [All Parts](notebooks/02_fantastic_datasets.ipynb)
 Video: [YouTube](https://www.youtube.com/watch?v=1tukMeP_UdE)
 
 Notebooks: [All Parts](notebooks/03_sgd_from_scratch.ipynb)
+
+<a name="track-agentic"></a>
+
+## Track - [Agentic](TBA)
+
+### Week 4 - 4a [Agentic AI from Scratch](https://youtu.be/9qWrr-1hOyY) 
+
+เนื้อหาในบทเรียนนี้:
+- ทำความเข้าใจ LLM เบื้องต้น
+- รู้จัก ReAct framework สำหรับการสร้าง LLM driven agents
+- เทคนิคการใช้ CoT และ Few-shot prompting เพื่อเพิ่มความแม่นยำให้ agents
+- ปัญหาที่พบบ่อย (Common failure cases) พร้อมแนวทางแก้ไขในบทเรียน
+โดยเราจะสร้าง agent ในรูปแบบพื้นฐานที่สุดเป็นตัวอย่างด้วย LLM `gemma-3-1b-it`
+
+[Video](https://youtu.be/9qWrr-1hOyY) | [Notebook](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
+
+### Week 5 - 5a [RAG and Automating Prompting](TBA) 
+
+RAG and APE (details TBA)
+
+### Week 6 - 6a [Programmtic Tool Calling and Other Topics](TBA)
+
+Programmatic tool calling (details TBA)
 
 <a name="track-vision"></a>
 ## Track - [Vision](https://www.youtube.com/watch?v=qKP84HVuXyQ&list=PLMkXpBmmcKL-7-Xdq2MwDR1oLtTqaSSxR) 
