@@ -79,6 +79,7 @@ Notebooks: [TH](notebooks/03b_sgd_from_scratch.ipynb)
 
 ## Track - [Agentic](TBA)
 
+<a name="chapter4a"></a>
 ### Week 4 - 4a [Agentic AI from Scratch](https://youtu.be/9qWrr-1hOyY) 
 
 เนื้อหาในบทเรียนนี้:
@@ -92,10 +93,12 @@ Video: [YouTube](https://youtu.be/9qWrr-1hOyY)
 
 Notebook: [Agentic AI from Scratch](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
 
+<a name="chapter5a"></a>
 ### Week 5 - 5a [RAG and Automating Prompting](TBA) 
 
 RAG and APE (details TBA)
 
+<a name="chapter6a"></a>
 ### Week 6 - 6a [Programmatic Tool Calling and Other Topics](TBA)
 
 Programmatic tool calling (details TBA)
