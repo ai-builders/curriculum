@@ -78,7 +78,7 @@ Notebook: [Agentic AI from Scratch](https://github.com/ai-builders/curriculum/bl
 
 RAG and APE (details TBA)
 
-### Week 6 - 6a [Programmtic Tool Calling and Other Topics](TBA)
+### Week 6 - 6a [Programmatic Tool Calling and Other Topics](TBA)
 
 Programmatic tool calling (details TBA)
 
