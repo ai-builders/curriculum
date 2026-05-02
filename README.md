@@ -13,7 +13,7 @@
   - [บทที่ 5a - RAG and Automating Prompting](#chapter5a)
   - [บทที่ 6a - Programmtic Tool Calling and Other Topics](#chapter6a)
 - [Track - Vision](#track-vision)
-  - [บทที่ 4v - Image Classification](#chapter4v)
+  - [บทที่ 4v - Image Classification and Semantic Segmentation](#chapter4v)
   - [บทที่ 5v - Object Detection](#chapter5v)
   - [บทที่ 6v - GANs and Advanced Topics](#chapter6v)
 - [Track - Texts](#track-texts)
