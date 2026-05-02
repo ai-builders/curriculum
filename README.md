@@ -107,37 +107,23 @@ Programmatic tool calling (details TBA)
 ## Track - [Vision](https://www.youtube.com/watch?v=qKP84HVuXyQ&list=PLMkXpBmmcKL-7-Xdq2MwDR1oLtTqaSSxR) 
 
 <a name="chapter4v"></a>
-### Week 4 - 4v [Image Classification](https://www.youtube.com/watch?v=qKP84HVuXyQ) 
+### Week 4 - 4v [Image Classification and Semantic Segmentation](https://youtu.be/xIHM2Uq1BXE)
 
-ในบทเรียนนี้เราจะมาลองสร้างโมเดล Image classification เพื่อแยกพันธุ์ของน้องหมาโดยใช้เทคนิค Transfer learning ด้วยไลบรารี่ต่างๆ ได้แก่ FastAI, Pytorch และ Pytorch Lightning นอกจากนั้นเราจะมาดูองค์ประกอบของการใช้ Pytorch และการใช้ Image augmentation ด้วยไลบรารี่ `torchvision`
+ในบทเรียนนี้เราจะเรียนรู้ว่าการวิเคราะห์ภาพด้วย AI ในหัวข้อ Image Classification (การจำแนกประเภทภาพ) และ Semantic Segmentation (การแบ่งส่วนภาพระดับพิกเซล) มีหลักการทำงานอย่างไร โดยเริ่มตั้งแต่การปูพื้นฐานทฤษฎี Convolutional Neural Network (CNN) และ Vision Transformer ไปจนถึงการลงมือทำจริงด้วยไลบรารี Hugging Face และ PyTorch นอกจากนี้ยังสอนตั้งแต่การเตรียมชุดข้อมูล, การฝึกสอนโมเดล (Train Model), การประเมินผล ไปจนถึงการสร้าง Web Application ง่ายๆ ด้วย Gradio เพื่อทดสอบโมเดลที่เทรนเสร็จแล้ว
 
-Video: [Part 1](https://www.youtube.com/watch?v=qKP84HVuXyQ), [Part 2](https://www.youtube.com/watch?v=ZRLT4G48EZQ), [Part 3](https://www.youtube.com/watch?v=h7hhfmFJj2c), [Part 4](https://www.youtube.com/watch?v=jYNG9hWvcB0)
+Video: [Youtube](https://youtu.be/xIHM2Uq1BXE)
 
-Slides (หน้า 1-33): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification_pytorch.ipynb) 
+Notebooks: [Image Classification](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_2026_01_image_classification.ipynb), [Semantic Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_2026_01_semantic_segmentation.ipynb)
 
 <a name="chapter5v"></a>
 ### Week 5 - 5v [Object Detection]() 
 
-ในบทเรียนนี้เราจะลองสร้างโมเดล Object detection ด้วยเทคนิค Transfer learning โดยใช้ไลบรารี่ FastAI และ Pytorch กัน เราจะมาดูหน้าตาของการสร้างชุดข้อมูล Object detection และไปดูเครื่องมือต่างๆที่ใช้สร้างชุดข้อมูล Object detection
-
-Video: [Part 1](https://www.youtube.com/watch?v=kCIdKpOZy9M), [Part 2](https://www.youtube.com/watch?v=O_nOvWinsOs), [Part 3](https://youtu.be/Jjr0WmcoyQs)
-
-Slides (หน้า 34-44): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_object_detection.ipynb), [Semantic Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_semantic_segmentation.ipynb)
+TBD
 
 <a name="chapter6v"></a>
 ### Week 6 - 6v [GANs and Advanced Topics]() 
 
-ในบทเรียนนี้เราจะมาลองสร้างแบบจำลองประเภท Generative Adversarial Network หรือ GAN แบบเบื้องต้นเพื่อที่จะสร้างภาพเสมือนขึ้นมา (จากข้อมูลภาพหน้าของบุคคลที่มีชื่อเสียง) ด้วยไลบรารี่ต่างๆทั้งจาก PyTorch และ FastAI นอกจากนั้นเรายังจะได้ทำความรู้จักกับ DCGAN ซึ่งเป็น GAN แบบเฉพาะทางทางหนึ่งอีกด้วย
-
-Video: [Part 1](https://www.youtube.com/watch?v=Jo6mj-b7Y2M), [Part 2](https://youtu.be/gfAgHWCvhIE), [Part 3](https://youtu.be/Mj8Re4aHxSI)
-
-Slides (หน้า 45-48): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [GAN fastai](notebooks/06v_GAN_fastai.ipynb), [DCGAN_PyTorch](notebooks/06v_DCGAN_pytorch.ipynb)
+TBD
 
 <a name="track-texts"></a>
 ## [Track - Texts](https://www.youtube.com/watch?v=x3-57cURLAA&list=PLyyEwPZh6aHrox_MkN9_9UOBHsRQpDBWg&index=1) 
