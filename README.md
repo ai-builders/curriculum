@@ -5,13 +5,8 @@
 <img src="https://raw.githubusercontent.com/ai-builders/curriculum/refs/heads/main/images/curriculum_2026.png" width="1000">
 
 ## สารบัญ
-<<<<<<< HEAD
-
-- [บทที่ 1 - Machine Learning คืออะไร](#chapter1)
-=======
 - [บทที่ 0 - How to AI 2026 [Recommended Setup for AI Builders]](#chapter0)
 - [บทที่ 1 - Artificial Intelligence (AI) คืออะไร](#chapter1)
->>>>>>> 4d185c1c931c1fd57bedde4da270476e17c27555
 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](#chapter2)
 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](#chapter3)
 - [Track - Agentic](#track-agentic)
@@ -19,7 +14,7 @@
   - [บทที่ 5a - RAG and Automating Prompting](#chapter5a)
   - [บทที่ 6a - Programmtic Tool Calling and Other Topics](#chapter6a)
 - [Track - Vision](#track-vision)
-  - [บทที่ 4v - Image Classification](#chapter4v)
+  - [บทที่ 4v - Image Classification and Semantic Segmentation](#chapter4v)
   - [บทที่ 5v - Object Detection](#chapter5v)
   - [บทที่ 6v - GANs and Advanced Topics](#chapter6v)
 - [Track - Texts](#track-texts)
@@ -43,12 +38,7 @@ Video: [YouTube](https://youtu.be/cquH30vEYGQ)
 Notebooks: [TH](notebooks/00_how_to_ai_2026.ipynb)
 
 <a name="chapter1"></a>
-<<<<<<< HEAD
-
-## Week 1 - [บทที่ 1 - Machine Learning คืออะไร](https://youtu.be/4-PHm7-XIjE)
-=======
 ## Week 1 - [บทที่ 1 - Artificial Intelligence คืออะไร](https://www.youtube.com/watch?v=cUZdHERY5Rk)
->>>>>>> 4d185c1c931c1fd57bedde4da270476e17c27555
 
 ในบทเรียนนี้เราจะเรียนรู้ว่า Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) และ Large Language Model (LLM) คืออะไร เหมือนกันหรือแตกต่างกันอย่างไร สามแนวทางการพัฒนาระบบปัญญาประดิษฐ์ที่กำลังเป็นที่นิยมในปัจจุบันคืออะไร-แนวทางไหนเหมาะกับการใช้งานแบบใด เราจะเรียนรู้ส่วนประกอบของระบบปัญญาประดิษฐ์ วิธีการ​ "โปรแกรม" LLM (แทนที่จะแค่ prompt), เทรน machine learning model ด้วยตัวอย่างจำแนกรูปภาพอาหารไทย 48 ชนิดจากชุดข้อมูล [FoodyDudy](https://github.com/GemmyTheGeek/FoodyDudy) หลังจากนั้นเราจะเรียนรู้วิธีการวัดผลเบื้องต้น (ก่อนไปเรียนละเอียดในบทที่ 3) และความท้าทายของการวัดผลในโลกที่ LLM ให้ผลลัพธ์ที่ไม่ตายตัว
 
@@ -57,12 +47,7 @@ Video: [YouTube](https://www.youtube.com/watch?v=cUZdHERY5Rk)
 Notebooks: [EN](notebooks/01_ai_what_2026.ipynb), [TH](notebooks/01_ai_what_2026_th.ipynb)
 
 <a name="chapter2"></a>
-<<<<<<< HEAD
-
-## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](https://youtu.be/1djko0F3auA)
-=======
 ## Week 2 - [บทที่ 2 - ชุดข้อมูลมหัศจรรย์และถิ่นที่อยู่](https://youtu.be/AQZYox8kZiU)
->>>>>>> 4d185c1c931c1fd57bedde4da270476e17c27555
 
 ในปัจจุบันชุดข้อมูลที่มีพร้อมทั้งปริมาณและคุณภาพเป็นส่วนสำคัญในการสร้าง AI Systems ในบทเรียนนี้เราจะเรียนรู้วิธีการหาข้อมูลมาเทรนโมเดลของเราทั้งจากชุดข้อมูล open data, web scraping, หรือสร้างขึ้นมาเองจากโมเดลและโค้ด open source ทั้งนี้การหาข้อมูลมาเทรนโมเดลจากแหล่งข้อมูลสาธารณะที่กล่าวมานั้นเราต้องให้ความสำคัญเรื่องลิขสิทธิ์และจริยธรรม (แม้แต่โมเดลเองก็สร้างข้อมูลที่ผิดลิขสิทธิ์-จริยธรรมได้; เรียนเพิ่มเติมในบทที่ 7)
 
@@ -71,10 +56,6 @@ Video: [YouTube](https://youtu.be/AQZYox8kZiU)
 Notebooks: [EN](notebooks/02_fantastic_datasets_2026.ipynb), [TH](notebooks/02_fantastic_datasets_2026_th.ipynb)
 
 <a name="chapter3"></a>
-<<<<<<< HEAD
-
-## Week 3 - [บทที่ 3 - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](https://www.youtube.com/watch?v=1tukMeP_UdE)
-=======
 ## Week 3 
 
 ### [บทที่ 3a - Metrics, Baselines, และการประเมินระบบ LLM](https://youtu.be/4TxqR1h7QZ4) 
@@ -86,7 +67,6 @@ Video: [YouTube](https://youtu.be/4TxqR1h7QZ4)
 Notebooks [EN](notebooks/03a_metrics_and_baselines_2026.ipynb), [TH](notebooks/03a_metrics_and_baselines_2026_th.ipynb)
 
 ### [บทที่ 3b - Stochastic Gradient Descent ตั้งแต่เริ่มต้น](https://www.youtube.com/watch?v=1tukMeP_UdE) 
->>>>>>> 4d185c1c931c1fd57bedde4da270476e17c27555
 
 ในบทเรียนนี้ เราจะทำการสร้างวิธีที่โมเดลของเราเรียนรู้ในบทเรียนที่แล้วๆมา เรียกว่า stochastic gradient descent ขึ้นมาเองตั้งแต่ต้นโดยใช้เพียงแค่ Pytorch สำหรับ linear algebra และการทำ partial derivatives เท่านั้น ด้วยตัวอย่างการจำแนกรูปภาพตัวเลข 3 และ 7 ออกจากกัน
 
@@ -100,7 +80,8 @@ Notebooks: [TH](notebooks/03b_sgd_from_scratch.ipynb)
 
 ## Track - [Agentic](TBA)
 
-### Week 4 - 4a [Agentic AI from Scratch](https://youtu.be/9qWrr-1hOyY)
+<a name="chapter4a"></a>
+### Week 4 - 4a [Agentic AI from Scratch](https://youtu.be/9qWrr-1hOyY) 
 
 เนื้อหาในบทเรียนนี้:
 
@@ -128,6 +109,7 @@ Video: [YouTube](https://youtu.be/A0bGe_RpbwE)
 
 Notebook: TBA
 
+<a name="chapter6a"></a>
 ### Week 6 - 6a [Programmatic Tool Calling and Other Topics](TBA)
 
 Programmatic tool calling (details TBA)
@@ -137,40 +119,25 @@ Programmatic tool calling (details TBA)
 ## Track - [Vision](https://www.youtube.com/watch?v=qKP84HVuXyQ&list=PLMkXpBmmcKL-7-Xdq2MwDR1oLtTqaSSxR)
 
 <a name="chapter4v"></a>
+### Week 4 - 4v [Image Classification and Semantic Segmentation](https://youtu.be/xIHM2Uq1BXE)
 
-### Week 4 - 4v [Image Classification](https://www.youtube.com/watch?v=qKP84HVuXyQ)
+ในบทเรียนนี้เราจะเรียนรู้ว่าการวิเคราะห์ภาพด้วย AI ในหัวข้อ Image Classification (การจำแนกประเภทภาพ) และ Semantic Segmentation (การแบ่งส่วนภาพระดับพิกเซล) มีหลักการทำงานอย่างไร โดยเริ่มตั้งแต่การปูพื้นฐานทฤษฎี Convolutional Neural Network (CNN) และ Vision Transformer ไปจนถึงการลงมือทำจริงด้วยไลบรารี Hugging Face และ PyTorch นอกจากนี้ยังสอนตั้งแต่การเตรียมชุดข้อมูล, การฝึกสอนโมเดล (Train Model), การประเมินผล ไปจนถึงการสร้าง Web Application ง่ายๆ ด้วย Gradio เพื่อทดสอบโมเดลที่เทรนเสร็จแล้ว
 
-ในบทเรียนนี้เราจะมาลองสร้างโมเดล Image classification เพื่อแยกพันธุ์ของน้องหมาโดยใช้เทคนิค Transfer learning ด้วยไลบรารี่ต่างๆ ได้แก่ FastAI, Pytorch และ Pytorch Lightning นอกจากนั้นเราจะมาดูองค์ประกอบของการใช้ Pytorch และการใช้ Image augmentation ด้วยไลบรารี่ `torchvision`
+Video: [Youtube](https://youtu.be/xIHM2Uq1BXE)
 
-Video: [Part 1](https://www.youtube.com/watch?v=qKP84HVuXyQ), [Part 2](https://www.youtube.com/watch?v=ZRLT4G48EZQ), [Part 3](https://www.youtube.com/watch?v=h7hhfmFJj2c), [Part 4](https://www.youtube.com/watch?v=jYNG9hWvcB0)
-
-Slides (หน้า 1-33): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [Part 1](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification.ipynb), [Part 2](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_classification_pytorch.ipynb)
+Notebooks: [Image Classification](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_2026_01_image_classification.ipynb), [Semantic Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/04v_2026_01_semantic_segmentation.ipynb)
 
 <a name="chapter5v"></a>
 
 ### Week 5 - 5v [Object Detection]()
 
-ในบทเรียนนี้เราจะลองสร้างโมเดล Object detection ด้วยเทคนิค Transfer learning โดยใช้ไลบรารี่ FastAI และ Pytorch กัน เราจะมาดูหน้าตาของการสร้างชุดข้อมูล Object detection และไปดูเครื่องมือต่างๆที่ใช้สร้างชุดข้อมูล Object detection
-
-Video: [Part 1](https://www.youtube.com/watch?v=kCIdKpOZy9M), [Part 2](https://www.youtube.com/watch?v=O_nOvWinsOs), [Part 3](https://youtu.be/Jjr0WmcoyQs)
-
-Slides (หน้า 34-44): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_object_detection.ipynb), [Semantic Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_semantic_segmentation.ipynb)
+TBD
 
 <a name="chapter6v"></a>
 
 ### Week 6 - 6v [GANs and Advanced Topics]()
 
-ในบทเรียนนี้เราจะมาลองสร้างแบบจำลองประเภท Generative Adversarial Network หรือ GAN แบบเบื้องต้นเพื่อที่จะสร้างภาพเสมือนขึ้นมา (จากข้อมูลภาพหน้าของบุคคลที่มีชื่อเสียง) ด้วยไลบรารี่ต่างๆทั้งจาก PyTorch และ FastAI นอกจากนั้นเรายังจะได้ทำความรู้จักกับ DCGAN ซึ่งเป็น GAN แบบเฉพาะทางทางหนึ่งอีกด้วย
-
-Video: [Part 1](https://www.youtube.com/watch?v=Jo6mj-b7Y2M), [Part 2](https://youtu.be/gfAgHWCvhIE), [Part 3](https://youtu.be/Mj8Re4aHxSI)
-
-Slides (หน้า 45-48): [Google slide](https://docs.google.com/presentation/d/1uSyldRREnvHu1zdI2Etczk2BQaOAoG1Z7UFrPkg-xZs/edit?usp=sharing), [pdf](https://github.com/ai-builders/curriculum/releases/download/slides_vision/04v-06v_slides.pdf)
-
-Notebooks: [GAN fastai](notebooks/06v_GAN_fastai.ipynb), [DCGAN_PyTorch](notebooks/06v_DCGAN_pytorch.ipynb)
+TBD
 
 <a name="track-texts"></a>
 
@@ -253,18 +220,10 @@ Video: [Part 1](https://youtu.be/Qnmynr6gVnw), [Part 2](https://www.youtube.com/
 Notebooks: [Part 1](notebooks/06t_01_similarity_matching.ipynb), [Part 2](notebooks/06t_02_clustering.ipynb)
 
 <a name="chapter7"></a>
-<<<<<<< HEAD
-
-## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://github.com/ai-builders/curriculum/releases/download/slides_ai_ethics/07_ai_ethics.pdf)
-
-เมื่อปัญญาประดิษฐ์เข้ามามีบทบาทในชีวิตประจำวัน รวมถึงใช้ในการทำงานสาขาต่างๆ อาทิ ช่วยตรวจโรค ช่วยตรวจจับผู้กระทำผิด หรือช่วยตัดสินค่าตอบแทน/บทลงโทษ ฯลฯ จะเห็นได้ว่าปัญญาประดิษฐ์เกี่ยวข้องกับประเด็นทางสังคมและส่งผลกระทบต่อคนเป็นจำนวนมาก บางครั้งปัญญาประดิษฐ์มีการตัดสินใจที่ผิดพลาด ส่งผลกระทบกับชีวิตของคน หลายครั้งปัญญาประดิษฐ์เป็นส่วนหนึ่งของการเผยแพร่อคติโดยที่ผู้พัฒนาคาดไม่ถึง หรือบางกรณีเป็นการจงใจนำปัญญาประดิษฐ์ไปใช้เพื่อการทำร้ายผู้อื่น
-การพัฒนาปัญญาประดิษฐ์จึงต้องคำนึงถึงหลักจริยธรรมปัญญาประดิษฐ์หรือ AI Ethics ในการพัฒนาเทคโนโลยีอย่างมีความรับผิดชอบ ในสัปดาห์นี้ เราจะมาทำความเข้าใจว่าปัญญาประดิษฐ์ก็สามารถมีอคติในการรับและเผยแพร่ข้อมูลได้อย่างไร รวมถึงคำนึงถึงโอกาสที่เทคโนโลยีจะถูกนำไปใช้ในทางที่ผิดและเราจะหาทางป้องกันความเสี่ยงได้อย่างไร
-=======
 ## Week 7 - [บทที่ 7 - จริยธรรมปัญญาประดิษฐ์](https://youtu.be/Dxs5cZRURi8) 
 
 เมื่อปัญญาประดิษฐ์เข้ามามีบทบาทในชีวิตประจำวัน รวมถึงใช้ในการทำงานสาขาต่างๆ อาทิ ช่วยตรวจโรค ช่วยตรวจจับผู้กระทำผิด หรือช่วยตัดสินค่าตอบแทน/บทลงโทษ ฯลฯ จะเห็นได้ว่าปัญญาประดิษฐ์เกี่ยวข้องกับประเด็นทางสังคมและส่งผลกระทบต่อคนเป็นจำนวนมาก บางครั้งปัญญาประดิษฐ์มีการตัดสินใจที่ผิดพลาด ส่งผลกระทบกับชีวิตของคน หลายครั้งปัญญาประดิษฐ์เป็นส่วนหนึ่งของการเผยแพร่อคติโดยที่ผู้พัฒนาคาดไม่ถึง หรือบางกรณีเป็นการจงใจนำปัญญาประดิษฐ์ไปใช้เพื่อการทำร้ายผู้อื่น 
 การพัฒนาปัญญาประดิษฐ์จึงต้องคำนึงถึงหลักจริยธรรมปัญญาประดิษฐ์หรือ AI Ethics ในการพัฒนาเทคโนโลยีอย่างมีความรับผิดชอบ ในสัปดาห์นี้ เราจะมาทำความเข้าใจว่าปัญญาประดิษฐ์โดยเฉพาะ Generative AI ที่เข้ามามีบทบาทในชีวิตของเราอย่างมากก็สามารถมีอคติในการรับและเผยแพร่ข้อมูลได้อย่างไร รวมถึงคำนึงถึงโอกาสที่เทคโนโลยีจะถูกนำไปใช้ในทางที่ผิดและเราจะหาทางป้องกันความเสี่ยงได้อย่างไร
->>>>>>> 4d185c1c931c1fd57bedde4da270476e17c27555
 
 บทเรียนนี้แปลเป็นภาษาไทยและเพิ่มเติมเนื้อหาจาก [Lesson 5](https://course.fast.ai/videos/?lesson=5) ของ [fastai Practical Deep Learning for Coders v4 part1](https://course.fast.ai/) โดย Rachel Thomas
 
