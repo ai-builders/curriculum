@@ -95,6 +95,7 @@ Video: [YouTube](https://youtu.be/9qWrr-1hOyY)
 
 Notebook: [Agentic AI from Scratch](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
 
+<a name="chapter5a"></a>
 ### Week 5 - 5a [RAG and Automating Prompting](https://youtu.be/A0bGe_RpbwE)
 
 เนื้อหาในบทเรียนนี้:
