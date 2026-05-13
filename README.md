@@ -121,7 +121,7 @@ Disclaimer: due to complex file heirarchy and a need for reproducible environmen
 
 เนื้อหาในบทเรียนนี้:
 
-- programmatic tool calling การเขียน tool ดั้วย PydanticAI
+- การเขียน custom tools นอกเหนือจาก RAG 
 - รวมส่วนประกอบจาก week ก่อน ๆ (ReAct and RAG) เข้าด้วยกัน
 
 Video: [YouTube TBA](TBA)
