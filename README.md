@@ -117,14 +117,14 @@ Notebook: [RAG and APE](https://github.com/ai-builders/curriculum/blob/main/note
 
 Disclaimer: due to complex file heirarchy and a need for reproducible environments, please use this [repository](https://github.com/kkuroma/AIB-agentic-notebooks) for local execution.
 
-### Week 6 - 6a [Programmatic Tool Calling and Other Topics](TBA)
+### Week 6 - 6a [Programmatic Tool Calling and Other Topics](https://youtu.be/CWP5zExEoD4)
 
 เนื้อหาในบทเรียนนี้:
 
 - การเขียน custom tools นอกเหนือจาก RAG 
 - รวมส่วนประกอบจาก week ก่อน ๆ (ReAct and RAG) เข้าด้วยกัน
 
-Video: [YouTube TBA](TBA)
+Video: [YouTube TBA](https://youtu.be/CWP5zExEoD4)
 
 Notebook: [RAG and APE](https://github.com/ai-builders/curriculum/blob/main/notebooks/06a_Tool_Calling.ipynb)
 
