@@ -118,6 +118,7 @@ Notebook: [RAG and APE](https://github.com/ai-builders/curriculum/blob/main/note
 
 Disclaimer: due to complex file heirarchy and a need for reproducible environments, please use this [repository](https://github.com/kkuroma/AIB-agentic-notebooks) for local execution.
 
+<a name="chapter6a"></a>
 ### Week 6 - 6a [Programmatic Tool Calling and Other Topics](TBA)
 
 เนื้อหาในบทเรียนนี้:
@@ -127,7 +128,7 @@ Disclaimer: due to complex file heirarchy and a need for reproducible environmen
 
 Video: [YouTube TBA](TBA)
 
-Notebook: [RAG and APE](https://github.com/ai-builders/curriculum/blob/main/notebooks/06a_Tool_Calling.ipynb)
+Notebook: [Tool Calling](https://github.com/ai-builders/curriculum/blob/main/notebooks/06a_Tool_Calling.ipynb)
 
 Disclaimer: due to complex file heirarchy and a need for reproducible environments, please use this [repository](https://github.com/kkuroma/AIB-agentic-notebooks) for local execution.
 
