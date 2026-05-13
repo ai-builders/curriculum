@@ -16,7 +16,7 @@
   - [บทที่ 6a - Programmtic Tool Calling and Other Topics](#chapter6a)
 - [Track - Vision](#track-vision)
   - [บทที่ 4v - Image Classification and Semantic Segmentation](#chapter4v)
-  - [บทที่ 5v - Object Detection](#chapter5v)
+  - [บทที่ 5v - Object Detection and Instance Segmentation](#chapter5v)
   - [บทที่ 6v - GANs and Advanced Topics](#chapter6v)
 - [Track - Texts](#track-texts)
   - [บทที่ 4n - ภาพรวมของ NLP และ Transformer](#chapter4n)
@@ -101,6 +101,7 @@ Video: [YouTube](https://youtu.be/9qWrr-1hOyY)
 
 Notebook: [Agentic AI from Scratch](https://github.com/ai-builders/curriculum/blob/main/notebooks/04a_Building_an_Agent_from_Scratch.ipynb)
 
+<a name="chapter5a"></a>
 ### Week 5 - 5a [RAG and Automating Prompting](https://youtu.be/A0bGe_RpbwE)
 
 เนื้อหาในบทเรียนนี้:
@@ -126,7 +127,7 @@ Disclaimer: due to complex file heirarchy and a need for reproducible environmen
 
 Video: [YouTube TBA](https://youtu.be/CWP5zExEoD4)
 
-Notebook: [RAG and APE](https://github.com/ai-builders/curriculum/blob/main/notebooks/06a_Tool_Calling.ipynb)
+Notebook: [Tool Calling](https://github.com/ai-builders/curriculum/blob/main/notebooks/06a_Tool_Calling.ipynb)
 
 Disclaimer: due to complex file heirarchy and a need for reproducible environments, please use this [repository](https://github.com/kkuroma/AIB-agentic-notebooks) for local execution.
 
@@ -146,9 +147,11 @@ Notebooks: [Image Classification](https://github.com/ai-builders/curriculum/blob
 
 <a name="chapter5v"></a>
 
-### Week 5 - 5v [Object Detection]()
+### Week 5 - 5v [Object Detection & Instance Segmentation (YOLO, DETR, SAM)](https://www.youtube.com/watch?v=E2G7ACEHInQ)
 
-TBD
+ในบทเรียนนี้เราจะเรียนรู้ว่าการทำ Object Detection (การตรวจจับวัตถุ) และ Instance Segmentation (การตรวจจับพร้อมแยกส่วนวัตถุ) ทำงานอย่างไร โดยเจาะลึกตั้งแต่ทฤษฎีพื้นฐานของ Bounding Box, สถาปัตยกรรมโมเดล (CNN และ Transformers), รูปแบบข้อมูล (YOLO, COCO) และการวัดผล (mAP) รวมถึงการสาธิตเขียนโค้ดจริงเพื่อเทรนโมเดลด้วย Ultralytics (YOLO) และ Hugging Face นอกจากนี้ยังแนะนำเทคนิคประยุกต์ใช้ Segment Anything Model (SAM) ในการสร้าง Mask อัตโนมัติ (Pseudo Label) เพื่อลดเวลาทำ Data Annotation ครับ
+
+Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/main/notebooks/05v_2026_03_pothole_detection.ipynb), [Instance Segmentation](https://github.com/ai-builders/curriculum/blob/main/notebooks/notebooks/05v_2026_04_sam2_yolo.ipynb)
 
 <a name="chapter6v"></a>
 
