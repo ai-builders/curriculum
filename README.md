@@ -156,9 +156,14 @@ Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/mai
 
 <a name="chapter6v"></a>
 
-### Week 6 - 6v [GANs and Advanced Topics]()
+### Week 6 - 6v [Multimodal Large Language Models (LLM) & LoRA Fine-Tuning](https://www.youtube.com/watch?v=ZoPd_fVfb4c)
 
-TBD
+ในบทเรียนสัปดาห์ที่ 6 ของ Vision Track เราจะมาทำความรู้จักกับ Multimodal Large Language Model (MLLM) ซึ่งเป็นโมเดลภาษาขนาดใหญ่ที่ไม่ได้จำกัดแค่การรับข้อความ แต่สามารถเข้าใจบริบทจาก "ภาพนิ่ง วิดีโอ หรือเสียง" ได้ด้วย (เช่น การป้อนรูปภาพแล้วให้ AI อธิบายภาพ)
+
+บทเรียนนี้จะเจาะลึกไปถึงกลไกสถาปัตยกรรมการเชื่อมต่อ Vision Encoder เข้ากับ Large Language Model (เช่น การใช้ Projector/Adapter และ Cross-Modality Attention) รวมถึงสอนเทคนิคการปรับจูนน้ำหนักโมเดลขนาดใหญ่ด้วยเทคนิค LoRA (Low-Rank Adaptation) เพื่อให้เราสามารถไฟน์จูนโมเดลพันล้านพารามิเตอร์บนการ์ดจอขนาดเล็กได้ พร้อมสาธิตการเขียนโค้ดไฟน์จูนโมเดลเพื่อตอบคำถามจากภาพถ่ายดาวเทียม (Visual Question Answering)
+
+Video: [Youtube](https://www.youtube.com/watch?v=ZoPd_fVfb4c)
+Notebook: [Multimodal](https://github.com/ai-builders/curriculum/blob/main/notebooks/notebooks/06v_2026_mllm_satellite.ipynb)
 
 <a name="track-texts"></a>
 
