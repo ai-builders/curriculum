@@ -17,7 +17,7 @@
 - [Track - Vision](#track-vision)
   - [บทที่ 4v - Image Classification and Semantic Segmentation](#chapter4v)
   - [บทที่ 5v - Object Detection and Instance Segmentation](#chapter5v)
-  - [บทที่ 6v - GANs and Advanced Topics](#chapter6v)
+  - [บทที่ 6v - Multimodal Large Language Models (LLM) & LoRA Fine-Tuning](#chapter6v)
 - [Track - Texts](#track-texts)
   - [บทที่ 4n - ภาพรวมของ NLP และ Transformer](#chapter4n)
   - [บทที่ 5n - Encoder-only language model และ huggingface](#chapter5n)
