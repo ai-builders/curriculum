@@ -163,7 +163,7 @@ Notebooks: [Object Detection](https://github.com/ai-builders/curriculum/blob/mai
 บทเรียนนี้จะเจาะลึกไปถึงกลไกสถาปัตยกรรมการเชื่อมต่อ Vision Encoder เข้ากับ Large Language Model (เช่น การใช้ Projector/Adapter และ Cross-Modality Attention) รวมถึงสอนเทคนิคการปรับจูนน้ำหนักโมเดลขนาดใหญ่ด้วยเทคนิค LoRA (Low-Rank Adaptation) เพื่อให้เราสามารถไฟน์จูนโมเดลพันล้านพารามิเตอร์บนการ์ดจอขนาดเล็กได้ พร้อมสาธิตการเขียนโค้ดไฟน์จูนโมเดลเพื่อตอบคำถามจากภาพถ่ายดาวเทียม (Visual Question Answering)
 
 Video: [Youtube](https://www.youtube.com/watch?v=ZoPd_fVfb4c)
-Notebook: [Multimodal](https://github.com/ai-builders/curriculum/blob/main/notebooks/notebooks/06v_2026_mllm_satellite.ipynb)
+Notebook: [Multimodal](https://github.com/ai-builders/curriculum/blob/main/notebooks/06v_2026_mllm_satellite.ipynb)
 
 <a name="track-texts"></a>
 
