@@ -260,13 +260,13 @@ Slides: [pdf](notebooks/07_ai_ethics_2026.pdf)
 
 <a name="chapter8"></a>
 
-## Week 8 - [บทที่ 8 - Prototype Deployment](https://youtu.be/)
+## Week 8 - [บทที่ 8 - Prototype Deployment](https://youtu.be/xgdzeMV5PwY)
 
 ในบทเรียนนี้เราจะเรียนรู้วิธีเปลี่ยน AI / ML prototype จาก notebook ให้กลายเป็น web prototype ที่แชร์ผ่าน public URL ได้จริง โดยใช้ marimo บน Google Colab สำหรับทดลองสร้าง interactive app และใช้ Hugging Face Spaces สำหรับ deploy โดยผู้เรียนสามารถสร้าง Space, แก้ไขไฟล์ `app.py` และ `requirements.txt` และ commit ผ่านหน้าเว็บของ Hugging Face ได้โดยตรง
 
 เป้าหมายคือให้นักเรียนสามารถเปลี่ยนงานจาก notebook ให้เป็น demo ที่รันซ้ำได้ แชร์ได้ และเปิดให้ผู้อื่นทดลองใช้งานได้จริง โดยข้ามขั้นตอน deployment ที่ซับซ้อน
 
-Video: [YouTube](https://youtu.be/)
+Video: [YouTube](https://youtu.be/xgdzeMV5PwY)
 
 Notebook: [Prototype Deployment](notebooks/08_deployment_2026.ipynb)
 
